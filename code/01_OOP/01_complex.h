@@ -1,5 +1,5 @@
-#ifndef MYCOMPLEX
-#define MYCOMPLEX
+#ifndef COMPLEX_H
+#define COMPLEX_H
 
 // 前向声明 complex 类
 class complex;
